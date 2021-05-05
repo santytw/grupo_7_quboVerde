@@ -1,5 +1,4 @@
 # QuboVerde
----
 
 __QuboVerde__ es el marketplace de plantas de interior y exterior para todos los que les encantaría tener plantas en su balcón, pero no se animan a ir a un vivero.
 
@@ -12,7 +11,6 @@ Estos usuarios, que particularmente en la actualidad, resuelven una gran cantida
 > El objetivo final de __QuboVerde__ será el de acercar de manera agradable, divertida y gráfica la jardinería doméstica a todo el publico.
 
 ## Diferenciadores:
----
 
 El marketplace de __QuboVerde__ se diferenciará de otros similares por las siguentes propuestas:
 
@@ -30,7 +28,6 @@ El marketplace de __QuboVerde__ se diferenciará de otros similares por las sigu
      Se optimizará el sitio para que el usuario pueda recorrer y seleccionar los productos para la compra sin estar previamente logueado, y en todo caso que la instancia del login sea el ultimo paso necesario.
 
 ## Sitios de refetencia:
----
 
 * [plants](https://www.plants.com/c/best-selling-plants): Buen manejo de la cantidad de información en cada ítem.
 
@@ -43,13 +40,10 @@ El marketplace de __QuboVerde__ se diferenciará de otros similares por las sigu
 * [greeneryncy](https://greenerynyc.com/): User centered: Todas las imágenes del catálogo hacen referencia a la escala humana ya sea con una mano (cuando son minis) o con una persona al lado de la planta.
 
 ## Paleta de colores en Hex:
----
 
 ## Font:
----
 
 ## Rutas a Vistas:
----
 
 * Home:'/'
 
