@@ -1,5 +1,7 @@
 # QuboVerde
 
+<img width="769" alt="demo" src="https://user-images.githubusercontent.com/21150483/117097742-dea90e00-ad42-11eb-84b4-bb2b26162ce4.png">
+
 __QuboVerde__ es el marketplace de plantas de interior y exterior para todos los que les encantaría tener plantas en su balcón, pero no se animan a ir a un vivero.
 
 Nuestro publico objetivo son habitantes de núcleos urbanos consolidados de entre 16 a 99 años, que por su experiencia viviendo en ciudades no cuentan con conocimiento específico de plantas -desde especies hasta formas de cuidado- .Los usuarios cuentan en sus viviendas con espacio limitado y con características particulares (limitaciones en altura, en asoleamiento, en capacidad de mantenimiento).
