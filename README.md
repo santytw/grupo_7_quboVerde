@@ -31,15 +31,15 @@ El marketplace de __QuboVerde__ se diferenciará de otros similares por las sigu
 
 ## Sitios de refetencia:
 
-* [plants](https://www.plants.com/c/best-selling-plants): Buen manejo de la cantidad de información en cada ítem.
+* [plants](https://www.plants.com/c/best-selling-plants){:target="_blank"}: Buen manejo de la cantidad de información en cada ítem.
 
-* [heyhorti](https://heyhorti.com/): Paleta de colores + navegación.
+* [heyhorti](https://heyhorti.com/){:target="_blank"}: Paleta de colores + navegación.
 
-* [burrow](https://burrow.com/): Carrito de compras y forma de mostrar productos.
+* [burrow](https://burrow.com/){:target="_blank"}: Carrito de compras y forma de mostrar productos.
 
-* [wix](https://www.wix.com/logo/maker/esh): Interacción clara y sencilla con el usuario, para obtener datos precisos/filtrables.
+* [wix](https://www.wix.com/logo/maker/esh){:target="_blank"}: Interacción clara y sencilla con el usuario, para obtener datos precisos/filtrables.
 
-* [greeneryncy](https://greenerynyc.com/): User centered: Todas las imágenes del catálogo hacen referencia a la escala humana ya sea con una mano (cuando son minis) o con una persona al lado de la planta.
+* [greeneryncy](https://greenerynyc.com/){:target="_blank"}: User centered: Todas las imágenes del catálogo hacen referencia a la escala humana ya sea con una mano (cuando son minis) o con una persona al lado de la planta.
 
 ## Paleta de colores en Hex:
 
