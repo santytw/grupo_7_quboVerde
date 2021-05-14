@@ -45,7 +45,9 @@ El marketplace de __QuboVerde__ se diferenciará de otros similares por las sigu
 #ffffff, #f6f2ed, #bb7f66, #f6ece9, #bac9c0, #51505d
 
 ## Font:
-Archivo, Absolut, Gilmer.
+* Archivo
+* Absolut
+* Gilmer
 
 ## Rutas a Vistas:
 
